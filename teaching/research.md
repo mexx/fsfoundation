@@ -13,28 +13,28 @@ Many of the standard F# features (including _active patterns_ and _asynchronous 
 have been described in academic literature, and many
 research projects build on top of F#. They fall into the following areas:
 
- * **[Functional programming](#functional_programming)** - publications
+ * **[Functional programming](#functional-programming)** - publications
     about core F# language features including _active patterns_ and intialization of 
     mutually recursive values.
 
- * **[DSLs and Meta-programming](#dsls_and_metaprogramming)** - publications related to DSL and 
+ * **[DSLs and Meta-programming](#dsls-and-metaprogramming)** - publications related to DSL and 
    meta-programming in F#.
 
- * **[Asynchronous, Concurrent and Reactive programming](#asynchronous_concurrent_and_reactive_programming)** - publications
+ * **[Asynchronous, Concurrent and Reactive programming](#asynchronous-concurrent-and-reactive-programming)** - publications
    about F# _asynchronous workflows_, the asynchronous programming model used in F#,
    event-based programming and "joinads", a research extension of F# _computation expression_ syntax
    for concurrent, reactive and parallel programming patterns.
 
- * **[Units of Measure](#units_of_measure)** - publications related to the Units of Measure feature of F#.
+ * **[Units of Measure](#units-of-measure)** - publications related to the Units of Measure feature of F#.
 
- * **[Information-rich programming](#informationrich_programming)** - publications related to F# 3.0 type providers, a novel mechanism
+ * **[Information-rich programming](#information-rich-programming)** - publications related to F# 3.0 type providers, a novel mechanism
      that integrates large-scale data into statically typed function programming language.
  
- * **[Web programming](#web_programming)** - publications related to web programming with F#.
+ * **[Web programming](#web-programming)** - publications related to web programming with F#.
   
  * **[Applications](#applications)** - publications and academic presentations describing applications of F#.
 
- * **[Security and Verification Research](#security_and_verification_research)** - variations of F# and their use in security and verification research.
+ * **[Security and Verification Research](#security-and-verification-research)** - variations of F# and their use in security and verification research.
 
 --------------
 
